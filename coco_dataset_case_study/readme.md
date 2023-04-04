@@ -1,4 +1,5 @@
 ### Show attend and tell implementation
+To run the code see codes directory with ipython notebooks.
 
 #### hyperparameters
 
